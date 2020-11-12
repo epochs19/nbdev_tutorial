@@ -1,4 +1,24 @@
-# nbdev template
+# Welcome to first nbdev tutorial
+> simple tutorial to say hello
 
-Use this template to more easily create your nbdev project.
+
+Proj trial 
+
+## Install
+
+`pip install your_project_name`
+
+## How to use
+
+calling method
+
+```python
+say_hello("Neha")
+```
+
+
+
+
+    'Hello Neha!'
+
 
