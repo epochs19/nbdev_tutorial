@@ -8,6 +8,6 @@ modules = ["core.py"]
 
 doc_url = "https://epochs19.github.io/hellonbdev/"
 
-git_url = "https://github.com/epochs19/hellonbdev/tree/master/"
+git_url = "https://github.com/epochs19/nbdev_tutorial/tree/master/"
 
 def custom_doc_links(name): return None
