@@ -6,7 +6,7 @@ Proj trial
 
 ## Install
 
-`pip install your_project_name`
+`pip install nbdev_tutorial`
 
 ## How to use
 
