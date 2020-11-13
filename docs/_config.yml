@@ -1,7 +1,7 @@
-repository: epochs19/hellonbdev
+repository: epochs19/nbdev_tutorial
 output: web
-topnav_title: hellonbdev
-site_title: hellonbdev
+topnav_title: nbdev_tutorial
+site_title: nbdev_tutorial
 company_name: Neha Pawar
 description: new nbdev
 # Set to false to disable KaTeX math
@@ -60,4 +60,4 @@ sidebars:
 - home_sidebar
 
 theme: jekyll-theme-cayman
-baseurl: /hellonbdev/
+baseurl: /nbdev_tutorial/
