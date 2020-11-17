@@ -33,3 +33,14 @@ add_two_numbers(1001,2)
     1003
 
 
+
+```python
+subtract_two_numbers(100,5)
+```
+
+
+
+
+    95
+
+
