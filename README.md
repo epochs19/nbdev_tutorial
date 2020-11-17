@@ -22,3 +22,19 @@ say_hello("Neha")
     'Hello Neha!'
 
 
+
+```python
+add_two_numbers(1001,2)
+```
+
+
+    ---------------------------------------------------------------------------
+
+    NameError                                 Traceback (most recent call last)
+
+    <ipython-input-1-ae426361a344> in <module>
+    ----> 1 add_two_numbers(1001,2)
+    
+
+    NameError: name 'add_two_numbers' is not defined
+
